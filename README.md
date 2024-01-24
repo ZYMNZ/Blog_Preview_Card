@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot 📸
 <a id="screenshot"></a>
-![img.png](img.png)
-![](./screenshot.jpg)
+![image](https://github.com/ZYMNZ/Blog_Preview_Card/assets/98342638/a6f9f66b-712e-4f05-ae39-0f45ed29ff95)
+
 
 ### Links
 <a id="links"></a>

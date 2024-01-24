@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 <a id="links"></a>
-- Live Site URL: []() WILL UPLOAD SOON!  
+- Live Site URL: [Live-Preview](https://zymnz.github.io/Blog_Preview_Card/)  
 
 ## My process
 <a id="my-process"></a>

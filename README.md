@@ -6,6 +6,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [The Technologies Used](#technologies)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -15,30 +16,37 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
-
 ### The challenge ⚔
+<a id="the-challenge"></a>
 
 Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
-
-### Technologies 🛠
+  
+### Technologies Used 🛠
+<a id="technologies"></a>
 `HTML`,`CSS`
 
 ### Screenshot 📸
+<a id="screenshot"></a>
 ![img.png](img.png)
 ![](./screenshot.jpg)
+
 ### Links
+<a id="links"></a>
 - Live Site URL: []() WILL UPLOAD SOON!  
 
 ## My process
+<a id="my-process"></a>
 ### Built with
+<a id="built-with"></a>
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
 ### What I learned
+<a id="what-i-learned"></a>
   Applied: `FlexBox`, `Descendant combinator`, `@font-face`
 ```css
 .proud-of-this-css :
@@ -48,9 +56,11 @@ Users should be able to:
 ```
 
 ### Continued development
+<a id="continued-development"></a>
 For future development, I might make it more interactive using `JS`! 
 
 ## Author
+<a id="author"></a>
 
 [//]: # (- Website - [Add your name here]&#40;https://www.your-site.com&#41;)
 - Frontend Mentor - [@Conan](https://www.frontendmentor.io/profile/ZYMNZ)
